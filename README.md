@@ -30,19 +30,20 @@ This project involves conducting a comprehensive Exploratory Data Analysis (EDA)
 ### 📸 Output Visualizations
 
 #### 🔹 Output 01
-![Output 01](outputs/plots/output01.png)
+![Output 01](output01.png)
 
 #### 🔹 Output 02
-![Output 02](outputs/plots/output02.png)
+![Output 02](output02.png)
 
 #### 🔹 Output 03
-![Output 03](outputs/plots/output03.png)
+![Output 03](output03.png)
 
 #### 🔹 Output 04
-![Output 04](outputs/plots/output04.png)
+![Output 04](output04.png)
 
 #### 🔹 Output 05
-![Output 05](outputs/plots/output05.png)
+![Output 05](output05.png)
 
 #### 🔹 Output 06
-![Output 06](outputs/plots/output06.png)
+![Output 06](output06.png)
+

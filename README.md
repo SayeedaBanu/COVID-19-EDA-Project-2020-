@@ -44,7 +44,8 @@ This project involves conducting a comprehensive Exploratory Data Analysis (EDA)
 ![Output 05](output05.png)
 
 #### 🔹 Output 06
-![](https://github.com/SayeedaBanu/COVID-19-EDA-Project-2020-/issues/1#issue-3293074386)
+![Output 06](output06.png)
+
 ---
 
 ## 🎯 Key Insights & Summary

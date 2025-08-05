@@ -44,8 +44,7 @@ This project involves conducting a comprehensive Exploratory Data Analysis (EDA)
 ![Output 05](output05.png)
 
 #### 🔹 Output 06
-![Output 06](output06.png)
-
+![](https://github.com/SayeedaBanu/COVID-19-EDA-Project-2020-/issues/1#issue-3293074386)
 ---
 
 ## 🎯 Key Insights & Summary
@@ -114,4 +113,5 @@ This comprehensive EDA provides insight into:
 Despite using synthetic data, this project closely mirrors real-world complexities and serves as a strong foundation for practicing data analysis, visualization, and pandemic modeling.
 
 ---
+
 

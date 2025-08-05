@@ -30,7 +30,7 @@ This project involves conducting a comprehensive Exploratory Data Analysis (EDA)
 ### 📸 Output Visualizations
 
 #### 🔹 Output 01
-![Output 01](output01.png)
+![](output01.png)
 
 #### 🔹 Output 02
 ![Output 02](output02.png)
